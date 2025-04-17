@@ -8,7 +8,7 @@ def divide(P, Q):
     return P / Q
 print("Please select an option -")
 print("a. Add")
-print("b, Subtract")
+print("b. Subtract")
 print("c. Multiply")
 print("d. Divide")
 choice = input("Enter your choice(a,b,c or d):")
